@@ -18,14 +18,56 @@ div.cab img{
     float: left;
 }
 div.sec1{
-    text-align: center;
+    padding: 10px 5px;
+    align-items: center;
     max-width: 1700px;
+}
+div.img1{
+    float: left;
+    margin: 1%;
 }
 div.sec2{
-    text-align: center;
+    padding: 10px 5px;
+    align-items: center;
     max-width: 1700px;
+    width: 50%;
+    float: left;
+}
+div.img2{
+    padding: 10px 5px;
+    margin: 1%;
+    margin-bottom: 150px;
+    float: left;
 }
 div.sec3{
-    text-align: center;
+    padding: 10px 5px;
+    align-self: right;
     max-width: 1700px;
+}
+ul.lista_ordenada{
+    max-width: 1200px;
+    width: 50%;
+    float: left;
+}
+ul.lista_nao_ordenada{
+    max-width: 1200px;
+    width: 50%;
+    float: right;
+}
+div.formcadastro{
+    padding: 10px 5px;
+    margin: 1%;
+    margin-bottom: 50px;
+    float: left;
+    width: 100%;
+}
+table.tabela{
+    margin: 0 auto;
+    max-width: 500px;
+    width: 100%;
+}
+div.tabela{
+    margin: 0 auto;
+    max-width: 500px;
+    width: 100%;
 }
